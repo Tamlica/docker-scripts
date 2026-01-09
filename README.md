@@ -10,6 +10,7 @@ This repository contains small scripts and Docker compose files to run local inf
 - `docker-run.sh`: Convenience script to start the services (make executable before running).
 - `rabbitmq.yml`: Docker Compose fragment / definition for RabbitMQ.
 - `redis.yml`: Docker Compose fragment / definition for Redis.
+- `es.yml`: Docker Compose fragment / definition for ElasticSearch.
 
 **Prerequisites**
 - **Docker**: Install Docker Desktop for macOS (https://www.docker.com/products/docker-desktop).
